@@ -1,6 +1,6 @@
 FROM ubuntu:18.04 AS builder
 
-ENV BUILD_TAG 0.15.1
+ENV BUILD_TAG 0.16.3
 
 RUN apt update
 RUN apt install -y --no-install-recommends \
