@@ -8,3 +8,5 @@ Branches and releases:
 
   - [0.15.1](https://github.com/ExodusMovement/docker-litecoind/tree/0.15.1)
     - [0.15.1-001](https://github.com/ExodusMovement/docker-litecoind/tree/0.15.1-001)
+  - [0.16.3](https://github.com/ExodusMovement/docker-litecoind/tree/0.16.3)
+    - [0.16.3-001](https://github.com/ExodusMovement/docker-litecoind/tree/0.16.3-001)
